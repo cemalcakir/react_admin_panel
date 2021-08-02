@@ -24,17 +24,5 @@
       "publishedAt": "2021-08-01",
       "id": "ii2OZkd"
     }
-  ],
-  "users": [
-    {
-      "id": "1",
-      "name": "admin",
-      "password": "password123"
-    },
-    {
-      "id": "2",
-      "name": "Ali Yilmaz",
-      "password": "password123"
-    }
   ]
 }
